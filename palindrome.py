@@ -4,6 +4,6 @@ list_copy = list.copy()
 list_copy.reverse()
 
 if(list == list_copy):
-    print("Give input is palindrome")
+    print("Given input is palindrome")
 else:
-    print("Give input is not a palindrome")
+    print("Given input is not a palindrome")
